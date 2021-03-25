@@ -29,7 +29,7 @@
   "dependencies": {
     "@prisma/cli": "latest",
     "@prisma/client": "latest",
-    "blitz": "latest",
+    "blitz": "0.32.1",
     "react": "experimental",
     "react-dom": "experimental"
   },
